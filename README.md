@@ -1,17 +1,14 @@
 # Kings League Card Manager
 
-Kings League Card Manager
-
-O Kings League Card Manager é um sistema web de cartas colecionáveis desenvolvido em Spring Boot, inspirado no conceito do FIFA Ultimate Team. 
-Projetado para os fãs da Kings League, o jogo permite:
-    Colecionar cards digitais dos jogadores da liga
-    Montar times estratégicos com diferentes combinações de cards
-    Competir em rankings de colecionador com outros players
-    Participar de torneios automáticos, onde os resultados são calculados com base nas estatísticas das cartas do seu time 
-Diferenciais:
-    Sistema de recompensas: Abra caixas misteriosas para receber cards aleatórios (com níveis de raridade)
-    Modo colecionador: Sua coleção de cards define sua posição no ranking global
-    Interface intuitiva: Desenvolvida para ser acessível tanto em desktop quanto mobile
+O **Kings League Card Manager** é um sistema web de cartas colecionáveis desenvolvido em Spring Boot, inspirado no conceito do FIFA Ultimate Team. 
+Este é um jogo projetado de fãs para os fãs, com o objetivo de tornar a experiência da competição mais divertida.
+**Funcionalidades**
+    - Modo colecionador: colecione cards de seus jogadores preferidos 
+    - Ranking global: a qualidade de sua coleção de cards define sua posição no ranking
+    - Team Manager: monte times estratégicos com diferentes combinações de cards
+    - Torneios: participe de torneios automáticos, onde os resultados são calculados com base nas estatísticas das cartas do seu time 
+    - Sistema de recompensas: abra caixas misteriosas para receber cards aleatórios (com níveis de raridade)
+    - Interface intuitiva: desenvolvida para ser acessível tanto em desktop quanto mobile
 
 
 ## TECNOLOGIAS UTILIZADAS
