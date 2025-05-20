@@ -1,6 +1,8 @@
-# kings-league-card-manager
+# Kings League Card Manager
 
 ## TECNOLOGIAS UTILIZADAS
 **Frontend**: HTML/CSS/JavaScript, Thymeleaf  
-**Backend**: Spring Boot 3.4.5 - Java 17
+
+**Backend**: Spring Boot 3.4.5, Java 17
+
 **Banco de Dados**: MySQL 8.0.42
